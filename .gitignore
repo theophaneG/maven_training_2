@@ -6,3 +6,5 @@
 # IntelliJ
 .idea/
 *.iml
+/sample/target/
+/lernejo-tester/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
