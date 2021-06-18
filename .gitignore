@@ -8,3 +8,8 @@
 *.iml
 /sample/target/
 /lernejo-tester/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/lernejo-tester/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/lernejo-tester/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/lernejo-tester/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/lernejo-tester/target/classes/fr/lernejo/tester/internal/TestClassDescription.class
+/lernejo-tester/target/classes/fr/lernejo/tester/api/TestMethod.class
